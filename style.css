@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+}
+
+form {
+  width: 600px;
+  height: 250px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+button {
+  text-transform: uppercase;
+  width: 30%;
+}
